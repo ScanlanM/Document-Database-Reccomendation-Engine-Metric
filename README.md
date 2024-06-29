@@ -1,5 +1,5 @@
 # Document-Database-Reccomendation-Engine-Metric
-##Creates a visualization of the where and how many times the most common terms in a document database occurs.
+## Creates a visualization of the where and how many times the most common terms in a document database occurs.
 
 - Code Notebook.pdf - PDF of the Notebook that imports processes and generates the visualization
 - Presentation.7z - 7 zip file of Recording of PowerPoint presentation of methods findings and conclusion drawn
